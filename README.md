@@ -1,7 +1,7 @@
 # Green-Vehicle-Routing-Problem-with-Capacitated-Alternative-Fuel-Stations
 <br> For each node of the network, we report:
-<br> ## ID= a unique identifier
-<br> # Type: d=depot, c=customer, f=station
+<br> ID= a unique identifier
+<br> Type: d=depot, c=customer, f=station
 <br> Longitude
 <br>Latitude
 <br> <br> Then, for each pump, we report the occupancy profile expressed through a binary array whose dimension is equal to the number of 30-minutes timeslots. In particular, 0 means that the pump is available. Instead, 1 indicates that the pump is occupied.
